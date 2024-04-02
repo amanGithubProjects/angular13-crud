@@ -1,0 +1,41 @@
+{
+  "productList": [
+    {
+      "productName": "apple",
+      "category": "fruit",
+      "freshness": "Brand new",
+      "price": 100,
+      "comment": "testy",
+      "date": "2023-11-01T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "mango",
+      "category": "fruit",
+      "freshness": "Brand new",
+      "price": 150,
+      "comment": "yummy",
+      "date": "2023-11-01T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "litchi",
+      "category": "fruit",
+      "freshness": "Brand new",
+      "price": 100,
+      "comment": "yumm",
+      "date": "2023-11-02T18:30:00.000Z",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
